@@ -344,6 +344,12 @@ p {
   overflow: hidden;
   border-radius: 10px;
 }
+
+.enlace {
+  font-size: 2rem;
+  color: rgb(131, 121, 62);
+  margin-bottom: 10px;
+}
 #projects .project-info {
   padding: 30px;
   flex-basis: 50%;
